@@ -13,7 +13,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/golang/sys/unix"
+	"github.com/qd-um/golang-sys/unix"
 )
 
 // TestSCMCredentials tests the sending and receiving of credentials

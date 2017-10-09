@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/golang/sys/mgr"
+	"github.com/qd-um/golang-sys/mgr"
 )
 
 func TestOpenLanManServer(t *testing.T) {

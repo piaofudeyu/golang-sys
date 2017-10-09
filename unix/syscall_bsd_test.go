@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/golang/sys/unix"
+	"github.com/qd-um/golang-sys/unix"
 )
 
 const MNT_WAIT = 1

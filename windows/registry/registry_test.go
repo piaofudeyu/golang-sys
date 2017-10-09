@@ -15,7 +15,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/golang/sys/windows/registry"
+	"github.com/qd-um/golang-sys/windows/registry"
 )
 
 func randKeyName(prefix string) string {
